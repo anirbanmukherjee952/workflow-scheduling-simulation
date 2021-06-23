@@ -1,0 +1,66 @@
+Vm{id=1, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00002, name=ExtractSGT, length=284580.0}
+Task{id=ID00011, name=SeismogramSynthesis, length=112050.0}
+Task{id=ID00012, name=PeakValCalcOkaya, length=2556.0}
+
+
+Vm{id=3, type-id=1, voltageLevel=1.1, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00013, name=ExtractSGT, length=174438.0}
+Task{id=ID00024, name=SeismogramSynthesis, length=98766.0}
+Task{id=ID00014, name=SeismogramSynthesis, length=85392.0}
+Task{id=ID00016, name=SeismogramSynthesis, length=82080.0}
+Task{id=ID00025, name=PeakValCalcOkaya, length=1404.0}
+
+
+Vm{id=5, type-id=1, voltageLevel=1.1, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00003, name=SeismogramSynthesis, length=70308.0}
+Task{id=ID00004, name=PeakValCalcOkaya, length=1134.0}
+
+
+Vm{id=7, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00005, name=SeismogramSynthesis, length=69282.0}
+Task{id=ID00006, name=PeakValCalcOkaya, length=1440.0}
+Task{id=ID00001, name=ZipSeis, length=342.0}
+Task{id=ID00000, name=ZipPSA, length=126.0}
+
+
+Vm{id=9, type-id=1, voltageLevel=1.1, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00007, name=SeismogramSynthesis, length=65286.0}
+Task{id=ID00008, name=PeakValCalcOkaya, length=1314.0}
+
+
+Vm{id=11, type-id=1, voltageLevel=1.1, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00009, name=SeismogramSynthesis, length=58122.0}
+Task{id=ID00010, name=PeakValCalcOkaya, length=1332.0}
+
+
+Vm{id=13, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00022, name=SeismogramSynthesis, length=55890.0}
+Task{id=ID00023, name=PeakValCalcOkaya, length=2574.0}
+
+
+Vm{id=15, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00018, name=SeismogramSynthesis, length=51606.0}
+Task{id=ID00019, name=PeakValCalcOkaya, length=2448.0}
+
+
+Vm{id=17, type-id=1, voltageLevel=1.1, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00028, name=SeismogramSynthesis, length=47628.0}
+Task{id=ID00029, name=PeakValCalcOkaya, length=1530.0}
+
+
+Vm{id=19, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00020, name=SeismogramSynthesis, length=44208.0}
+Task{id=ID00021, name=PeakValCalcOkaya, length=2448.0}
+
+
+Vm{id=21, type-id=1, voltageLevel=1.15, frequency=2.0, processingSpeed=2000.0}
+Task{id=ID00026, name=SeismogramSynthesis, length=43182.0}
+Task{id=ID00027, name=PeakValCalcOkaya, length=1980.0}
+
+
+Vm{id=23, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00015, name=PeakValCalcOkaya, length=2754.0}
+Task{id=ID00017, name=PeakValCalcOkaya, length=2754.0}
+
+

@@ -1,0 +1,21 @@
+Workflow: Epigenomics
+Size: 100
+Deadline: 23301.135
+Budget: 1.1880563
+
+Normalized Makespan:
+ESDWB:			0.9647609
+Modified ESDWB:	0.88757396
+
+Deadline Violation:
+ESDWB:			0.0
+Modified ESDWB:	0.0
+
+Normalized Cost:
+ESDWB:			0.6275454
+Modified ESDWB:	0.7515693
+
+Normalized Cost:
+ESDWB:			1.0
+Modified ESDWB:	1.095924
+

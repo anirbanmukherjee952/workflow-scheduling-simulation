@@ -1,0 +1,187 @@
+Vm{id=0, type-id=1, voltageLevel=1.1, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00020, name=Blast, length=5449760.0}
+Task{id=ID00021, name=SRNA, length=542912.75}
+Task{id=ID00024, name=Blast_QRNA, length=2355312.8}
+Task{id=ID00022, name=FFN_Parse, length=2547.18}
+Task{id=ID00025, name=Blast_synteny, length=59400.0}
+Task{id=ID00026, name=Blast_paralogues, length=11051.82}
+Task{id=ID00023, name=Blast_candidate, length=8996.04}
+Task{id=ID00027, name=SRNA_annotate, length=3515.04}
+
+
+Vm{id=1, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00050, name=Blast, length=3716547.8}
+Task{id=ID00051, name=SRNA, length=368698.16}
+Task{id=ID00052, name=FFN_Parse, length=2070.9001}
+Task{id=ID00055, name=Blast_synteny, length=59400.0}
+Task{id=ID00056, name=Blast_paralogues, length=11129.76}
+Task{id=ID00053, name=Blast_candidate, length=9279.18}
+Task{id=ID00057, name=SRNA_annotate, length=3571.02}
+
+
+Vm{id=2, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00047, name=Findterm, length=3256670.2}
+
+
+Vm{id=3, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00017, name=Findterm, length=2273450.0}
+
+
+Vm{id=4, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00019, name=Transterm, length=80487.18}
+
+
+Vm{id=5, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00018, name=RNAMotif, length=70923.42}
+
+
+Vm{id=6, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00049, name=Transterm, length=58711.32}
+
+
+Vm{id=7, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00048, name=RNAMotif, length=43763.76}
+
+
+Vm{id=8, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00054, name=Blast_QRNA, length=2536042.2}
+
+
+Vm{id=9, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00036, name=Patser, length=3233.88}
+
+
+Vm{id=10, type-id=0, voltageLevel=1.15, frequency=1.6, processingSpeed=1600.0}
+Task{id=ID00038, name=Patser, length=3197.1602}
+
+
+Vm{id=11, type-id=0, voltageLevel=1.15, frequency=1.6, processingSpeed=1600.0}
+Task{id=ID00003, name=Patser, length=3122.2798}
+
+
+Vm{id=12, type-id=0, voltageLevel=1.15, frequency=1.6, processingSpeed=1600.0}
+Task{id=ID00037, name=Patser, length=3081.24}
+
+
+Vm{id=13, type-id=0, voltageLevel=1.15, frequency=1.6, processingSpeed=1600.0}
+Task{id=ID00011, name=Patser, length=3014.82}
+
+
+Vm{id=14, type-id=0, voltageLevel=1.15, frequency=1.6, processingSpeed=1600.0}
+Task{id=ID00040, name=Patser, length=2922.1199}
+
+
+Vm{id=15, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00015, name=Patser, length=2758.14}
+
+
+Vm{id=16, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00032, name=Patser, length=2741.04}
+
+
+Vm{id=17, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00033, name=Patser, length=2740.8599}
+
+
+Vm{id=18, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00006, name=Patser, length=2669.04}
+
+
+Vm{id=19, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00046, name=Patser, length=2622.6}
+
+
+Vm{id=20, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00030, name=Patser, length=2567.1602}
+
+
+Vm{id=21, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00045, name=Patser, length=2496.5999}
+
+
+Vm{id=22, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00016, name=Patser, length=2473.74}
+
+
+Vm{id=23, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00041, name=Patser, length=2355.48}
+
+
+Vm{id=24, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00014, name=Patser, length=2323.26}
+
+
+Vm{id=25, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00009, name=Patser, length=2319.48}
+
+
+Vm{id=26, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00010, name=Patser, length=2289.78}
+
+
+Vm{id=27, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00031, name=Patser, length=2246.4001}
+
+
+Vm{id=28, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00035, name=Patser, length=2214.36}
+
+
+Vm{id=29, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00004, name=Patser, length=2147.04}
+
+
+Vm{id=30, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00005, name=Patser, length=2140.56}
+
+
+Vm{id=31, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00008, name=Patser, length=2088.9001}
+
+
+Vm{id=32, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00001, name=Patser, length=2077.5598}
+
+
+Vm{id=33, type-id=0, voltageLevel=0.9, frequency=0.8, processingSpeed=800.0}
+Task{id=ID00043, name=Patser, length=2076.66}
+Task{id=ID00028, name=Patser_concate, length=109.979996}
+
+
+Vm{id=34, type-id=0, voltageLevel=1.05, frequency=1.2, processingSpeed=1200.0}
+Task{id=ID00012, name=Patser, length=2005.2}
+
+
+Vm{id=35, type-id=0, voltageLevel=1.0, frequency=1.0, processingSpeed=1000.0}
+Task{id=ID00013, name=Patser, length=1947.9601}
+
+
+Vm{id=36, type-id=0, voltageLevel=1.0, frequency=1.0, processingSpeed=1000.0}
+Task{id=ID00039, name=Patser, length=1935.72}
+
+
+Vm{id=37, type-id=0, voltageLevel=1.0, frequency=1.0, processingSpeed=1000.0}
+Task{id=ID00044, name=Patser, length=1898.9999}
+
+
+Vm{id=38, type-id=0, voltageLevel=0.9, frequency=0.8, processingSpeed=800.0}
+Task{id=ID00002, name=Patser, length=1883.3401}
+Task{id=ID00000, name=Patser_concate, length=168.48}
+
+
+Vm{id=39, type-id=0, voltageLevel=1.0, frequency=1.0, processingSpeed=1000.0}
+Task{id=ID00029, name=Patser, length=1833.1199}
+
+
+Vm{id=40, type-id=0, voltageLevel=1.15, frequency=1.6, processingSpeed=1600.0}
+Task{id=ID00007, name=Patser, length=1494.72}
+
+
+Vm{id=41, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00042, name=Patser, length=1333.08}
+
+
+Vm{id=42, type-id=0, voltageLevel=1.1, frequency=1.4, processingSpeed=1400.0}
+Task{id=ID00034, name=Patser, length=1276.0199}
+
+

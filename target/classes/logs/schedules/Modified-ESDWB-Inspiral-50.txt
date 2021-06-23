@@ -1,0 +1,86 @@
+Vm{id=1, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00005, name=TmpltBank, length=32489.998}
+Task{id=ID00017, name=Inspiral, length=1240722.0}
+Task{id=ID00028, name=TrigBank, length=8802.0}
+Task{id=ID00040, name=Inspiral, length=1146258.0}
+
+
+Vm{id=3, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00006, name=TmpltBank, length=32580.0}
+Task{id=ID00018, name=Inspiral, length=1192770.0}
+Task{id=ID00029, name=TrigBank, length=9612.0}
+Task{id=ID00041, name=Inspiral, length=850338.0}
+
+
+Vm{id=5, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00004, name=TmpltBank, length=32886.0}
+Task{id=ID00016, name=Inspiral, length=1008594.0}
+Task{id=ID00035, name=TrigBank, length=9576.0}
+Task{id=ID00047, name=Inspiral, length=686178.0}
+
+
+Vm{id=7, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00007, name=TmpltBank, length=31427.998}
+Task{id=ID00019, name=Inspiral, length=976986.06}
+Task{id=ID00036, name=TrigBank, length=8802.0}
+Task{id=ID00048, name=Inspiral, length=859392.0}
+
+
+Vm{id=9, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00008, name=TmpltBank, length=33120.0}
+Task{id=ID00020, name=Inspiral, length=891162.0}
+Task{id=ID00024, name=Thinca, length=9522.0}
+Task{id=ID00025, name=TrigBank, length=9234.0}
+Task{id=ID00037, name=Inspiral, length=1237968.0}
+
+
+Vm{id=11, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00001, name=TmpltBank, length=32706.0}
+Task{id=ID00013, name=Inspiral, length=869976.0}
+Task{id=ID00033, name=TrigBank, length=10224.0}
+Task{id=ID00045, name=Inspiral, length=708210.0}
+
+
+Vm{id=13, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00010, name=TmpltBank, length=32922.0}
+Task{id=ID00022, name=Inspiral, length=846252.0}
+Task{id=ID00032, name=TrigBank, length=9468.0}
+Task{id=ID00044, name=Inspiral, length=1155456.0}
+
+
+Vm{id=15, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00011, name=TmpltBank, length=32742.0}
+Task{id=ID00023, name=Inspiral, length=774414.0}
+Task{id=ID00031, name=TrigBank, length=8910.0}
+Task{id=ID00043, name=Inspiral, length=855900.0}
+Task{id=ID00049, name=Thinca, length=9504.0}
+
+
+Vm{id=17, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00000, name=TmpltBank, length=32508.0}
+Task{id=ID00012, name=Inspiral, length=680400.0}
+Task{id=ID00027, name=TrigBank, length=8892.0}
+Task{id=ID00039, name=Inspiral, length=889326.0}
+
+
+Vm{id=19, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00003, name=TmpltBank, length=33534.0}
+Task{id=ID00015, name=Inspiral, length=540342.0}
+Task{id=ID00034, name=TrigBank, length=9378.0}
+Task{id=ID00046, name=Inspiral, length=686970.0}
+
+
+Vm{id=21, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00002, name=TmpltBank, length=32310.002}
+Task{id=ID00014, name=Inspiral, length=513054.0}
+Task{id=ID00030, name=TrigBank, length=8910.0}
+Task{id=ID00042, name=Inspiral, length=1109412.0}
+
+
+Vm{id=23, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00009, name=TmpltBank, length=33858.0}
+Task{id=ID00021, name=Inspiral, length=440046.0}
+Task{id=ID00026, name=TrigBank, length=9108.0}
+Task{id=ID00038, name=Inspiral, length=488358.0}
+
+

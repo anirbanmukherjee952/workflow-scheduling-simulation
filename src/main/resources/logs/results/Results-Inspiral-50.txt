@@ -1,0 +1,21 @@
+Workflow: Inspiral
+Size: 50
+Deadline: 1100.4241
+Budget: 0.03474567
+
+Normalized Makespan:
+ESDWB:			0.94808906
+Modified ESDWB:	0.88757396
+
+Deadline Violation:
+ESDWB:			0.0
+Modified ESDWB:	0.0
+
+Normalized Cost:
+ESDWB:			0.63701314
+Modified ESDWB:	0.7572933
+
+Normalized Cost:
+ESDWB:			1.0
+Modified ESDWB:	1.0921098
+

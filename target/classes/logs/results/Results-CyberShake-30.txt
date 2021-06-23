@@ -1,0 +1,21 @@
+Workflow: CyberShake
+Size: 30
+Deadline: 173.03543
+Budget: 0.0023017554
+
+Normalized Makespan:
+ESDWB:			0.99433607
+Modified ESDWB:	1.4265044
+
+Deadline Violation:
+ESDWB:			0.0
+Modified ESDWB:	42.650436
+
+Normalized Cost:
+ESDWB:			0.6943494
+Modified ESDWB:	0.9253323
+
+Normalized Cost:
+ESDWB:			1.0
+Modified ESDWB:	1.0424818
+

@@ -1,0 +1,51 @@
+Vm{id=1, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00000, name=TmpltBank, length=32094.0}
+Task{id=ID00007, name=Inspiral, length=1214532.0}
+Task{id=ID00019, name=TrigBank, length=8964.0}
+Task{id=ID00026, name=Inspiral, length=550260.0}
+
+
+Vm{id=3, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00002, name=TmpltBank, length=31716.002}
+Task{id=ID00009, name=Inspiral, length=1070334.0}
+Task{id=ID00020, name=TrigBank, length=9630.0}
+Task{id=ID00027, name=Inspiral, length=918666.0}
+
+
+Vm{id=5, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00004, name=TmpltBank, length=32489.998}
+Task{id=ID00011, name=Inspiral, length=963378.06}
+Task{id=ID00021, name=TrigBank, length=9468.0}
+Task{id=ID00028, name=Inspiral, length=657288.0}
+
+
+Vm{id=7, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00003, name=TmpltBank, length=31950.0}
+Task{id=ID00010, name=Inspiral, length=934542.0}
+Task{id=ID00016, name=TrigBank, length=9774.0}
+Task{id=ID00023, name=Inspiral, length=1103004.0}
+
+
+Vm{id=9, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00001, name=TmpltBank, length=32345.998}
+Task{id=ID00008, name=Inspiral, length=630450.0}
+Task{id=ID00018, name=TrigBank, length=9468.0}
+Task{id=ID00025, name=Inspiral, length=460098.0}
+
+
+Vm{id=11, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00006, name=TmpltBank, length=32814.0}
+Task{id=ID00013, name=Inspiral, length=619398.0}
+Task{id=ID00017, name=TrigBank, length=8874.0}
+Task{id=ID00024, name=Inspiral, length=753102.0}
+
+
+Vm{id=13, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00005, name=TmpltBank, length=31626.0}
+Task{id=ID00012, name=Inspiral, length=597762.0}
+Task{id=ID00014, name=Thinca, length=10098.0}
+Task{id=ID00015, name=TrigBank, length=10386.0}
+Task{id=ID00022, name=Inspiral, length=1127484.0}
+Task{id=ID00029, name=Thinca, length=8730.0}
+
+

@@ -1,0 +1,190 @@
+Vm{id=0, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00000, name=fastqSplit_chr21, length=62550.0}
+Task{id=ID00007, name=filterContams_chr21, length=918.0}
+Task{id=ID00031, name=sol2sanger_chr21, length=233.99998}
+Task{id=ID00055, name=fastq2bfq_chr21, length=756.0}
+Task{id=ID00079, name=map_chr21, length=4.2428684E7}
+
+
+Vm{id=1, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00022, name=filterContams_chr21, length=900.0}
+Task{id=ID00046, name=sol2sanger_chr21, length=270.0}
+Task{id=ID00070, name=fastq2bfq_chr21, length=540.0}
+
+
+Vm{id=2, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00094, name=map_chr21, length=4.222096E7}
+Task{id=ID00097, name=mapMerge_chr21, length=19656.0}
+Task{id=ID00098, name=maqindex_chr21, length=36.0}
+Task{id=ID00099, name=pileup_chr21, length=1.1259018E7}
+
+
+Vm{id=3, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00017, name=filterContams_chr21, length=810.0}
+Task{id=ID00041, name=sol2sanger_chr21, length=432.0}
+Task{id=ID00065, name=fastq2bfq_chr21, length=378.0}
+
+
+Vm{id=4, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00089, name=map_chr21, length=3.8410904E7}
+
+
+Vm{id=5, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00005, name=filterContams_chr21, length=1494.0}
+Task{id=ID00029, name=sol2sanger_chr21, length=486.00003}
+Task{id=ID00053, name=fastq2bfq_chr21, length=467.99997}
+
+
+Vm{id=6, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00077, name=map_chr21, length=3.6624872E7}
+
+
+Vm{id=7, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00003, name=filterContams_chr21, length=2520.0}
+Task{id=ID00027, name=sol2sanger_chr21, length=720.0}
+Task{id=ID00051, name=fastq2bfq_chr21, length=756.0}
+
+
+Vm{id=8, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00075, name=map_chr21, length=3.590964E7}
+
+
+Vm{id=9, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00010, name=filterContams_chr21, length=1512.0}
+Task{id=ID00034, name=sol2sanger_chr21, length=540.0}
+Task{id=ID00058, name=fastq2bfq_chr21, length=1440.0}
+
+
+Vm{id=10, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00082, name=map_chr21, length=3.5737344E7}
+
+
+Vm{id=11, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00014, name=filterContams_chr21, length=1800.0}
+Task{id=ID00038, name=sol2sanger_chr21, length=432.0}
+Task{id=ID00062, name=fastq2bfq_chr21, length=738.0}
+
+
+Vm{id=12, type-id=1, voltageLevel=1.3, frequency=2.6, processingSpeed=2600.0}
+Task{id=ID00086, name=map_chr21, length=3.4826816E7}
+
+
+Vm{id=13, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00008, name=filterContams_chr21, length=2466.0}
+Task{id=ID00032, name=sol2sanger_chr21, length=612.0}
+Task{id=ID00056, name=fastq2bfq_chr21, length=1080.0}
+Task{id=ID00080, name=map_chr21, length=3.2608242E7}
+
+
+Vm{id=14, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00004, name=filterContams_chr21, length=1692.0}
+Task{id=ID00028, name=sol2sanger_chr21, length=756.0}
+Task{id=ID00052, name=fastq2bfq_chr21, length=1728.0}
+Task{id=ID00076, name=map_chr21, length=3.2504492E7}
+
+
+Vm{id=15, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00019, name=filterContams_chr21, length=738.0}
+Task{id=ID00043, name=sol2sanger_chr21, length=233.99998}
+Task{id=ID00067, name=fastq2bfq_chr21, length=504.0}
+Task{id=ID00091, name=map_chr21, length=3.149858E7}
+
+
+Vm{id=16, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00002, name=filterContams_chr21, length=2538.0}
+Task{id=ID00026, name=sol2sanger_chr21, length=467.99997}
+Task{id=ID00050, name=fastq2bfq_chr21, length=990.0}
+Task{id=ID00074, name=map_chr21, length=2.9777654E7}
+
+
+Vm{id=17, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00020, name=filterContams_chr21, length=1944.0001}
+Task{id=ID00044, name=sol2sanger_chr21, length=1242.0}
+Task{id=ID00068, name=fastq2bfq_chr21, length=1476.0}
+Task{id=ID00092, name=map_chr21, length=2.9041542E7}
+
+
+Vm{id=18, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00023, name=filterContams_chr21, length=1710.0}
+Task{id=ID00047, name=sol2sanger_chr21, length=594.0}
+Task{id=ID00071, name=fastq2bfq_chr21, length=1332.0}
+Task{id=ID00095, name=map_chr21, length=2.8513044E7}
+
+
+Vm{id=19, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00021, name=filterContams_chr21, length=5868.0}
+Task{id=ID00045, name=sol2sanger_chr21, length=953.99994}
+Task{id=ID00069, name=fastq2bfq_chr21, length=3582.0}
+Task{id=ID00093, name=map_chr21, length=2.7923544E7}
+
+
+Vm{id=20, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00006, name=filterContams_chr21, length=1907.9999}
+Task{id=ID00030, name=sol2sanger_chr21, length=684.0}
+Task{id=ID00054, name=fastq2bfq_chr21, length=864.0}
+Task{id=ID00078, name=map_chr21, length=2.64015E7}
+
+
+Vm{id=21, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00013, name=filterContams_chr21, length=953.99994}
+Task{id=ID00037, name=sol2sanger_chr21, length=324.0}
+Task{id=ID00061, name=fastq2bfq_chr21, length=360.0}
+Task{id=ID00085, name=map_chr21, length=2.5540236E7}
+
+
+Vm{id=22, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00018, name=filterContams_chr21, length=2214.0}
+Task{id=ID00042, name=sol2sanger_chr21, length=684.0}
+Task{id=ID00066, name=fastq2bfq_chr21, length=1026.0}
+Task{id=ID00090, name=map_chr21, length=2.545614E7}
+
+
+Vm{id=23, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00015, name=filterContams_chr21, length=4248.0}
+Task{id=ID00039, name=sol2sanger_chr21, length=1314.0}
+Task{id=ID00063, name=fastq2bfq_chr21, length=2322.0}
+Task{id=ID00087, name=map_chr21, length=2.4630948E7}
+
+
+Vm{id=24, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00011, name=filterContams_chr21, length=1907.9999}
+Task{id=ID00035, name=sol2sanger_chr21, length=774.0}
+Task{id=ID00059, name=fastq2bfq_chr21, length=1206.0}
+Task{id=ID00083, name=map_chr21, length=2.431575E7}
+
+
+Vm{id=25, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00009, name=filterContams_chr21, length=3420.0}
+Task{id=ID00033, name=sol2sanger_chr21, length=828.0}
+Task{id=ID00057, name=fastq2bfq_chr21, length=1836.0}
+Task{id=ID00081, name=map_chr21, length=2.4051744E7}
+
+
+Vm{id=26, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00001, name=filterContams_chr21, length=1980.0}
+Task{id=ID00025, name=sol2sanger_chr21, length=1026.0}
+Task{id=ID00049, name=fastq2bfq_chr21, length=1584.0}
+Task{id=ID00073, name=map_chr21, length=2.3638356E7}
+
+
+Vm{id=27, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00024, name=filterContams_chr21, length=1026.0}
+Task{id=ID00048, name=sol2sanger_chr21, length=396.0}
+Task{id=ID00072, name=fastq2bfq_chr21, length=450.0}
+Task{id=ID00096, name=map_chr21, length=2.3400504E7}
+
+
+Vm{id=28, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00012, name=filterContams_chr21, length=2610.0}
+Task{id=ID00036, name=sol2sanger_chr21, length=648.0}
+Task{id=ID00060, name=fastq2bfq_chr21, length=738.0}
+Task{id=ID00084, name=map_chr21, length=2.0796984E7}
+
+
+Vm{id=29, type-id=0, voltageLevel=1.2, frequency=1.8, processingSpeed=1800.0}
+Task{id=ID00016, name=filterContams_chr21, length=1836.0}
+Task{id=ID00040, name=sol2sanger_chr21, length=630.0}
+Task{id=ID00064, name=fastq2bfq_chr21, length=774.0}
+Task{id=ID00088, name=map_chr21, length=1.8429408E7}
+
+

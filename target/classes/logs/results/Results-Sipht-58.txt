@@ -1,0 +1,21 @@
+Workflow: Sipht
+Size: 58
+Deadline: 3618.9834
+Budget: 0.034465984
+
+Normalized Makespan:
+ESDWB:			1.2946384
+Modified ESDWB:	1.0295614
+
+Deadline Violation:
+ESDWB:			29.46384
+Modified ESDWB:	2.9561455
+
+Normalized Cost:
+ESDWB:			0.7915793
+Modified ESDWB:	0.8645014
+
+Normalized Cost:
+ESDWB:			1.0
+Modified ESDWB:	1.1152544
+
